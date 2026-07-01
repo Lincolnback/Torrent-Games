@@ -1,0 +1,20 @@
+{
+  "name": "torgamez.org",
+  "downloads": [
+    {
+      "title": "Call of Duty: Advanced Warfare",
+      "uris": [
+        "magnet:?xt=urn:btih:146d8a62ea867f01f0f55a5b64460ef69c07ea49&dn=Call+of%E2%80%A6&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce" 
+      ],
+      "uploadDate": "2024-07-01T10:50:00.000Z",
+      "fileSize": "60 GB"
+    },
+    {
+      "title": "Exemplo 2 v0.X.XX",
+      "uris": [
+        "magnet: Inserir link magnético"
+      ],
+      "uploadDate": "2020-01-31T23:53:00.000Z",
+      "fileSize": "YYY.ZZ MB"
+    }
+}
